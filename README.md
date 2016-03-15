@@ -13,7 +13,7 @@
 
 * Reload local package database.<p>
 `sudo apt-get update`<p>
-*PS: If it appears "W: GPG error: http://repo.mongodb.org wheezy/mongodb-org/3.2 Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY D68FA50FEA312927", you can use: apt-key adv --keyserver keyserver.ubuntu.com --recv-keys D68FA50FEA312927*<p>
+*PS: If it appears "W: GPG error: http://repo.mongodb.org wheezy/mongodb-org/3.2 Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY D68FA50FEA312927", you can use: __apt-key adv --keyserver keyserver.ubuntu.com --recv-keys D68FA50FEA312927__ *<p>
 
 * Install the MongoDB packages.<p>
 `sudo apt-get install -y mongodb-org`<p>
