@@ -1,8 +1,12 @@
 ### Install MongoDB
 **Related Reference:**[ Click Here](https://docs.mongodb.org/manual/administration/install-on-linux/)<p>
 
+OR
+
 ### Use Docker Directly
 **Related Reference:**[ Click Here](https://hub.docker.com/_/mongo/)<p>
+
+***
 
 ###### Platform: debian 8.3 64bit<p>
 
